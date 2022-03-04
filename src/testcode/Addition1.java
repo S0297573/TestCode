@@ -10,7 +10,7 @@ public class Addition1 {
 		
 		//method call
 		int c = add(a,b);
-		// a and b parameter
+		
 		System.out.println("sum of a and b = "+c);
 	}
 
